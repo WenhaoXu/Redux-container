@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cc8390e-fa1d-456a-b7ee-9418f9d8eb49" name="Default" comment="" />
+    <list default="true" id="5cc8390e-fa1d-456a-b7ee-9418f9d8eb49" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/concent/addCont.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/concent/addCont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/contContain.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/contContain.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,11 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contContain.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contContain.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/contContain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="34" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addCont.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addCont.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/concent/addCont.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="202">
+              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -98,6 +104,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -111,9 +120,9 @@
         <option value="$PROJECT_DIR$/src/concent/ContGroup.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/actions/index.js" />
-        <option value="$PROJECT_DIR$/src/containers/contContain.js" />
         <option value="$PROJECT_DIR$/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/src/concent/addCont.js" />
+        <option value="$PROJECT_DIR$/src/containers/contContain.js" />
       </list>
     </option>
   </component>
@@ -139,6 +148,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1041" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -231,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531971628318</updated>
-      <workItem from="1531971629581" duration="19155000" />
+      <workItem from="1531971629581" duration="19561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19155000" />
+    <option name="totallyTimeSpent" value="19561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="331" y="219" width="1400" height="1041" extended-state="0" />
@@ -248,7 +258,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -279,13 +289,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/concent/ContGroup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -294,13 +297,6 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#277#302#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/containers/contContain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -328,10 +324,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/concent/ContGroup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/concent/addCont.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="202">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/contContain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

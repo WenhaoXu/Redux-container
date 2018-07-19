@@ -14,7 +14,7 @@ export  default  class addCont extends Component{
          setTimeout(()=>this.props.onIncrement(this.props.index),1000)
     }
     render() {
-        const { value, onIncrement, onDecrement,index,onDaly } = this.props;
+        const { value, onIncrement, onDecrement,index } = this.props;
         return (
                 <p>
                     Clicked: {value} times
